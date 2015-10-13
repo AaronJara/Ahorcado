@@ -10,10 +10,7 @@ package ahorcado.game;
  * @author AARON Jara Molina
  */
 public class AhorcadoGame {
-    private String[] mospl;
-    private String[] letras;
-    private String[] plcompleta;
-    
+ 
 
     /**
      * @param args the command line arguments
